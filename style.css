@@ -21,8 +21,8 @@
 }
 
 .contacts{
-    font-family:Arial, Helvetica, sans-serif;
-    color:cadetblue;
+    font-family:'Times New Roman', Times, serif;
+    color:black;
     font-size:small;
     
    }
@@ -35,7 +35,7 @@
 
  }
 .mymargin{
-margin: 10px;
+margin: 20px;
 margin: top 10px;
     }
 .subborder{
@@ -55,7 +55,7 @@ margin: top 10px;
     height:300px;
    }
    footer{
-    /* background-color:white; */
+   
     color:brown;
     
     /* border: solid 1px white ; */
@@ -75,7 +75,7 @@ margin: top 10px;
     list-style:none;
     font-size: x-large;
     color:coral;
-    margin-left: 200px;
+    /* margin-left: 10px; */
    }
    
     
@@ -113,9 +113,18 @@ margin: top 10px;
         text-align: center;
 
     }
+    .distlinkcolor a:hover{
+        color:brown;
+        background-color: aliceblue;
+    }
     .distlink a:hover{
-        color:black;
-        background-color: blanchedalmond;
+        color:black; 
+     /* background-color: blanchedalmond; */
+    }
+    .placelinkdis
+    {
+        text-decoration:none;
+        color:blueviolet;
     }
     .partplace{
     margin-top :20px;
