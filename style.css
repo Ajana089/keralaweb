@@ -138,5 +138,9 @@ margin: top 10px;
     
         .signuplogin a{
             text-decoration: none;
+            color:black;
+        }
+        .signuplogin1 a{
+            text-decoration: none;
             color:brown;
         }
